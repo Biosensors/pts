@@ -1,0 +1,285 @@
+{
+	"name":"Ya Dong Zhu",
+	"username":"yd.zhu",
+	"nickname":"Yadong",
+	"email":"yd.zhu@biosensors.com",
+	"title":"Group Head of IT",
+	"phones":[
+		{
+			"no":"+65 9753-4351",
+			"desc":"mobile"
+		},
+		{
+			"no":"+86 183-1138-3090",
+			"desc":"mobile"
+		},
+		{
+			"no":"+65 6213-0143",
+			"desc":"DID"
+		},
+		{
+			"no":"535",
+			"desc":"ext"
+		}
+	]
+	,
+	"team":[
+		{
+			"name":"Alex Seng Qiong Ooi",
+			"username":"a.ooi",
+			"nickname":"Alex",
+			"email":"a.ooi@biosensors.com",
+			"title":"Associate, IT APAC, IT Operations and Infrastructure (GIT05)‎",
+			"phones":[
+				{
+					"no":"+65 9021-7912",
+					"desc":"mobile"
+				},
+				{
+					"no":"534",
+					"desc":"ext"
+				}
+			]
+		},
+		{
+			"name":"Noor Mohamed Ibrahim",
+			"username":"n.sha",
+			"nickname":"Noor",
+			"email":"n.sha@biosensors.com",
+			"title":"Associate, IT APAC, IT Operations and Infrastructure (GIT05)‎",
+			"phones":[
+				{
+					"no":"+65 9824-6756",
+					"desc":"mobile"
+				},
+				{
+					"no":"624",
+					"desc":"ext"
+				}
+			]
+		},
+		{
+			"name":"Jessica Yo",
+			"username":"j.yo",
+			"nickname":"Jessica",
+			"email":"j.yo@biosensors.com",
+			"title":"Associate, IT APAC, IT Operations and Infrastructure (GIT05)‎",
+			"phones":[
+				{
+					"no":"+65 8418-2445",
+					"desc":"mobile"
+				},
+				{
+					"no":"755",
+					"desc":"ext"
+				}
+			]
+		},
+		{
+			"name":"Gianni Pizzolante",
+			"username":"g.pizzolante",
+			"nickname":"Gianni",
+			"email":"g.pizzolante@biosensors.com",
+			"title":"Associate Manager, MIS EMEA, IT Applications Management (GIT04)‎",
+			"phones":[
+				{
+					"no":"+41 79 822 28 73",
+					"desc":"mobile"
+				},
+				{
+					"no":"176",
+					"desc":"ext"
+				}
+			]
+		},
+		{
+			"name":"Xavier Murdter",
+			"username":"x.murdter",
+			"nickname":"Xavier",
+			"email":"x.murdter@biosensors.com",
+			"title":"Associate Manager, MIS EMEA, IT Applications Management (GIT04)‎",
+			"phones":[
+				{
+					"no":"+41 79 307 32 20",
+					"desc":"mobile"
+				},
+				{
+					"no":"177",
+					"desc":"ext"
+				}
+			]
+		},
+		{
+			"name":"Ali Mohamed Ibrahim",
+			"username":"mia.ali",
+			"nickname":"Xavier",
+			"email":"mia.ali@biosensors.com",
+			"title":"Manager, IT Data & Analytics, IT Data and Analytics (GIT03)‎",
+			"phones":[
+				{
+					"no":"+65 9062 4472",
+					"desc":"mobile"
+				},
+				{
+					"no":"623",
+					"desc":"ext"
+				}
+			],
+			"team":[
+				{
+					"name":"Edward Suryajaya",
+					"username":" e.suryajaya",
+					"nickname":"Edward",
+					"email":" e.suryajaya@biosensors.com",
+					"title":"Associate Manager, IT Data & Analytics, IT Centers of Excellence (GIT01)‎",
+					"phones":[
+						{
+							"no":"+65 8575 3470",
+							"desc":"mobile"
+						},
+						{
+							"no":"+62 81298875588",
+							"desc":"mobile"
+						},
+						{
+							"no":"674",
+							"desc":"ext"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name":"Christian Kosasih Tan",
+			"username":"ch.tan",
+			"nickname":"Christian",
+			"email":"ch.tan@biosensors.com",
+			"title":"Manager, Group MIS IT Centers of Excellence (GIT01)‎",
+			"phones":[
+				{
+					"no":"+65 9636-0549",
+					"desc":"mobile"
+				},
+				{
+					"no":"558",
+					"desc":"ext"
+				}
+			],
+			"team":[
+				{
+					"name":"Arun Prasath Deenadayalan",
+					"username":" a.deenadayalan",
+					"nickname":"Arun",
+					"email":" a.deenadayalan@biosensors.com",
+					"title":"Associate Manager, Group MIS IT Centers of Excellence (GIT01)‎",
+
+					"phones":[
+						{
+							"no":"+65 8786 8090",
+							"desc":"mobile"
+						},
+						{
+							"no":"614",
+							"desc":"ext"
+						}
+					]
+				},
+				{
+					"name":"Dario Pesce",
+					"username":" d.pesce",
+					"nickname":"Dario",
+					"email":" d.pesce@biosensors.com",
+					"title":"Associate Manager, Group MIS EMEA, IT Centers of Excellence (GIT01)‎",
+
+					"phones":[
+						{
+							"no":"+41 78 894 68 03",
+							"desc":"mobile"
+						},
+						{
+							"no":"193",
+							"desc":"ext"
+						}
+					]
+				},
+				{
+					"name":"Kelvin Chin Pow Cheng",
+					"username":" k.cheng",
+					"nickname":"Kelvin",
+					"email":" k.cheng@biosensors.com",
+					"title":"Associate Manager, Group MIS IT Centers of Excellence (GIT01)‎",
+					"phones":[
+						{
+							"no":"+65 9751 5005",
+							"desc":"mobile"
+						},
+						{
+							"no":"546",
+							"desc":"ext"
+						}
+					]
+				},
+				{
+					"name":"May Amor Cabading Francisco",
+					"username":"m.francisco",
+					"nickname":"May",
+					"email":"m.francisco@biosensors.com",
+					"title":"Associate Manager, Group MIS IT Centers of Excellence (GIT01)‎",
+					"phones":[
+						{
+							"no":"+65 9737 2500",
+							"desc":"mobile"
+						},
+						{
+							"no":"644",
+							"desc":"ext"
+						}
+					]
+				},
+				{
+					"name":"Mingfeng Li",
+					"username":" mf.li",
+					"nickname":"Mingfeng",
+					"email":" mf.li@biosensors.com",
+					"title":"Associate Manager, Group IT, IT Operations and Infrastructure (GIT05)‎",
+					"phones":[
+						{
+							"no":"+65 8339 4753",
+							"desc":"mobile"
+						},
+						{
+							"no":"+86 13480926367",
+							"desc":"mobile"
+						},
+						{
+							"no":"543",
+							"desc":"ext"
+						}
+					]
+				},
+				{
+					"name":"Shasha Zhao",
+					"username":" s.zhao",
+					"nickname":"Shasha",
+					"email":" s.zhao@biosensors.com",
+					"title":"Associate Manager, Group MIS IT Centers of Excellence (GIT01)‎",
+					"phones":[
+						{
+							"no":"+65 9181 5053",
+							"desc":"mobile"
+						},
+						{
+							"no":"+86 13480926367",
+							"desc":"mobile"
+						},
+						{
+							"no":"546",
+							"desc":"ext"
+						}
+					]
+				}
+			]
+		}
+	]
+
+}
